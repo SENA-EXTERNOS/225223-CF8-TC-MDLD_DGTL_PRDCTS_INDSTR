@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://sena-externos.github.io/225223-CF8-TC-MDLD_DGTL_PRDCTS_INSTRLS/](https://sena-externos.github.io/225223-CF8-TC-MDLD_DGTL_PRDCTS_INSTRLS/)
 
 #
 
