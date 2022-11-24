@@ -1,4 +1,4 @@
-# **sena-base-2021 v6.2.1**
+# Consideraciones y parámetros en el diseño para impresión 3D - **sena-base-2021 v6.2.1**
 
 ## **Enlace GitHubPages**
 

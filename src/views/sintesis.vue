@@ -3,15 +3,14 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 A pesar de que la manufactura aditiva lleva décadas en desarrollo, solo hasta hace algunos años ha estado al alcance de la mayoría de las personas, instituciones de educación, investigación, entre otros, lo que ha permitido el rápido desarrollo de esta industria, encontrando nuevas aplicaciones para sectores que en el pasado eran impensables.  Ahora, al crear un modelo digital, se puede obtener un 100 % de precisión. Por ejemplo: algunos tipos de impresoras 3D comunes pueden imprimir con gran precisión, a una resolución de 100 micrones, lo que equivale a una décima de milímetro, que está muy cerca del diámetro de un cabello humano, esto cerró una brecha en algunas industrias para las que la impresión 3D no estaba a altura de los requerimientos (De León, s.f.). <b> ¡Ahora nuevas aplicaciones e industrias están por venir!</b>
 
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis-.svg", alt="alt")
       .col-auto
-        a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/Síntesis.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
