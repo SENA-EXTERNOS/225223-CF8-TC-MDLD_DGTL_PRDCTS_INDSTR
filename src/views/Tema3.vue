@@ -64,7 +64,7 @@
     #t_3_2.titulo-segundo.color-acento-botones
       h2 3.2 Ventajas y desventajas 
 
-    p.mb-5 Algunas de las principales ventajas y desventajas de este proceso de manufactura aditiva son:
+
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         ImagenInfografica.color-acento-botones.mb-5

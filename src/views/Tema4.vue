@@ -27,14 +27,14 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         TabsA.color-acento-contenido.mb-5
-          .tarjeta.tarjeta--azul.p-4(titulo="Uso 1")
+          .tarjeta.tarjeta--azul.fnd-2.p-4(titulo="Uso 1")
             p <em>Binder jet metal crafting</em> es la tecnología de impresión 3D de metal más rápida y económica. Gracias a las opciones de recubrimiento, es ideal para la creación de prototipos, la decoración de artículos o necesidades de joyería.
             p Las técnicas de fabricación por chorro de aglutinante metálico son particularmente útiles para fabricar piezas únicas con buenos acabados superficiales. 
 
-          .tarjeta.tarjeta--azul.p-4(titulo="Uso 2")
+          .tarjeta.tarjeta--azul.fnd-2.p-4(titulo="Uso 2")
             p Debido a sus propiedades mecánicas promedio, el chorro de aglutinante metálico es más adecuado para artículos decorativos y joyería que para piezas técnicas.            
 
-          .tarjeta.tarjeta--azul.p-4(titulo="Uso 3")
+          .tarjeta.tarjeta--azul.fnd-2.p-4(titulo="Uso 3")
             p Sin embargo, algunos procesos con acero inoxidable de infiltración aumentan la resistencia y dureza del material, haciéndolo adecuado para muchas aplicaciones.    
       .col-lg-4 
         figure

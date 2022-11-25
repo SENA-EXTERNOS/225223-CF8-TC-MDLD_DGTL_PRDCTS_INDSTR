@@ -69,7 +69,7 @@
                     | Fabricación de prototipos geométricos muy complicados.
             .col-md-6
               figure
-                img(src='@/assets/curso/temas/tema5/img-4.svg')
+                img(src='@/assets/curso/temas/tema5/img-5.svg')
 
     separador
 
@@ -80,7 +80,7 @@
     .row.justify-content-center.mb-5
       .col-lg-5
         igure
-          img(src='@/assets/curso/temas/tema4/img-3.svg')
+          img(src='@/assets/curso/temas/tema5/img-6.png')
       .col-lg-7      
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul fnd-3")
           .row(titulo="Material extenso")
