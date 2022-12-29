@@ -11,7 +11,8 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Consideraciones y parámetros en el diseño para impresión 3D
-        p.mb-4 Apreciado aprendiz, a continuación, se encuentran 6 enunciados sobre el contenido de este componente formativo, lo invitamos a leerlos atentamente, reflexionar y decidir si son falsos o verdaderos. ¡Adelante!
+        p Apreciado aprendiz, el objetivo de esta actividad es corroborar los conocimientos obtenidos relacionados a la impresión 3D, los cuales fueron vistos en este componente.
+        p Con la intención de identificar conceptos abordados durante la experiencia de aprendizaje responda si es verdadero o falso el enunciado, de esta forma puede repasar los temas relacionados a los parámetros en el diseño para la impresión 3D.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

@@ -24,21 +24,29 @@
       h2 4.1 Usos 
 
     p.mb-5 A continuación, algunos usos del <em>Binder jet metal crafting</em>
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8
-        TabsA.color-acento-contenido.mb-5
-          .tarjeta.tarjeta--azul.fnd-2.p-4(titulo="Uso 1")
+
+    TabsC.color-acento-contenido.mb-5
+      .py-4.py-md-5(titulo="Para prototipos")
+        .row.justify-content-around.align-items-center
+          .col-md-6.mb-4.mb-md-0
             p <em>Binder jet metal crafting</em> es la tecnología de impresión 3D de metal más rápida y económica. Gracias a las opciones de recubrimiento, es ideal para la creación de prototipos, la decoración de artículos o necesidades de joyería.
             p Las técnicas de fabricación por chorro de aglutinante metálico son particularmente útiles para fabricar piezas únicas con buenos acabados superficiales. 
+          .col-md-4
+            img(src='@/assets/curso/temas/tema4/aj1.png', alt='')
 
-          .tarjeta.tarjeta--azul.fnd-2.p-4(titulo="Uso 2")
-            p Debido a sus propiedades mecánicas promedio, el chorro de aglutinante metálico es más adecuado para artículos decorativos y joyería que para piezas técnicas.            
+      .py-4.py-md-5(titulo="Para artículos de joyería")
+        .row.justify-content-around.align-items-center
+          .col-md-6.mb-4.mb-md-0
+            p Debido a sus propiedades mecánicas promedio, el chorro de aglutinante metálico es más adecuado para artículos decorativos y joyería que para piezas técnicas. 
+          .col-md-4
+            img(src='@/assets/curso/temas/tema4/aj2.png', alt='')           
 
-          .tarjeta.tarjeta--azul.fnd-2.p-4(titulo="Uso 3")
-            p Sin embargo, algunos procesos con acero inoxidable de infiltración aumentan la resistencia y dureza del material, haciéndolo adecuado para muchas aplicaciones.    
-      .col-lg-4 
-        figure
-          img(src='@/assets/curso/temas/tema4/img-2.svg')
+      .py-4.py-md-5(titulo="Para decoraciones que no requieran alta tecnología")
+        .row.justify-content-around.align-items-center
+          .col-md-6.mb-4.mb-md-0
+            p Sin embargo, algunos procesos con acero inoxidable de infiltración aumentan la resistencia y dureza del material, haciéndolo adecuado para muchas aplicaciones.  
+          .col-md-4
+            img(src='@/assets/curso/temas/tema4/aj3.png', alt='')     
 
     separador 
 

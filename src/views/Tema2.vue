@@ -42,7 +42,9 @@
               .tarjeta-flip__contenedor
                 .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img-2.png')})`}")
                 .tarjeta-flip__contenido.p-4.p-xl-5
-                  p.text-center.bb El software lamina y coloca archivos CAD en 3D. Se Calcula la ruta para extruir el material termoplástico y cualquier material de soporte necesario.
+                  p.text-center.bb El 
+                    em software 
+                    |  lamina y coloca archivos CAD en 3D. Se Calcula la ruta para extruir el material termoplástico y cualquier material de soporte necesario.
 
           .col-sm-6.col-xl-4.mb-4.mb-xl-0.img-384
             .tarjeta.tarjeta-flip.color-acento-botones(@mouseover="indicadorTarjetaFlip = false")
@@ -79,7 +81,9 @@
           .row(titulo="Usos 1")
             p.mb-4 Dada la simplicidad de la tecnología y el bajo costo del proceso muchas empresas la utilizan para fabricar los primeros prototipos de los productos; de igual forma se usa para la producción de piezas en bajos volúmenes que no requieren un acabado superficial tan alto.  Los primeros en adoptar la impresión 3D como GE, Airbus, BMW y Ford han estado utilizando la impresión 3D FDM por décadas, como herramienta para diseñar plantillas, accesorios y piezas de fabricación especializadas de bajo volumen utilizando maquinaria de fabricación aditiva a escala industrial y gran escala.
           .row(titulo="Usos 2")
-            p.mb-4 De igual forma es una tecnología, que por su costo es accesible para hogares y centro de educación, se constituye en la herramienta ideal para comenzar en la manufactura aditiva. Hay varios softwares de diseño libres que se pueden usar para la creación de los objetos 3D, así como también librerías para descargar archivos de impresión y un sin número de comunidades para la creación de proyectos de impresión 3D.
+            p.mb-4 De igual forma es una tecnología, que por su costo es accesible para hogares y centro de educación, se constituye en la herramienta ideal para comenzar en la manufactura aditiva. Hay varios 
+              em softwares 
+              |  de diseño libres que se pueden usar para la creación de los objetos 3D, así como también librerías para descargar archivos de impresión y un sin número de comunidades para la creación de proyectos de impresión 3D.
 
 
 
@@ -90,8 +94,30 @@
 
     p.mb-5 A continuación, se visualizan algunas de las principales ventajas y desventajas de utilizar la tecnología FFF.
     
-    figure
-      img(src='@/assets/curso/temas/tema2/img-6.png')
+    ImagenInfografica.color-secundario.mb-5
+      template(v-slot:imagen)
+        figure
+          img(src='@/assets/curso/temas/tema2/aj1.svg', alt='Texto que describa la imagen')
+
+      .tarjeta.color-acento-botones.p-3(x="0%" y="50%" numero="")
+        ul.lista-ul--color
+          li
+            i.fas.fa-check
+            p.mb-0 Impresora fácil de usar y de bajo costo, al igual que los consumibles como las bobinas de material.
+          li
+            i.fas.fa-check
+            p.mb-0 Tecnología de fácil comprensión y disponibilidad en el mercado las impresoras.
+          li
+            i.fas.fa-check
+            p.mb-0 Adecuada para uso en casi todos los campos, desde el hogar hasta en la industria, la medicina, la educación y más.
+      .tarjeta.color-acento-botones.p-3(x="100%" y="50%" numero="")
+        ul.lista-ul--color
+          li
+            i.fas.fa-check
+            | Amplio catálogo de materiales, gama cromática y en constante expansión.
+          li
+            i.fas.fa-check
+            | Piezas fáciles de post procesar.
 
 </template>
 

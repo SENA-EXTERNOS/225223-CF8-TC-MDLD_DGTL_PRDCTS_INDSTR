@@ -11,7 +11,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7
         p.mb-4 La impresión 3D es un concepto general que engloba todo un conjunto de procesos de impresión 3D. La norma ISO/ASTM 52900, publicada en 2015, tiene como objetivo estandarizar todos los términos y clasificar cada tipo diferente de impresora 3D. En total, se identificaron y establecieron siete clases diferentes de procesos de fabricación aditiva. Estos procesos de impresión 3D dieron lugar a diez tecnologías diferentes utilizadas por las impresoras 3D en la actualidad.
-        p.mb-5 Los procesos de fabricación aditiva tienen cada uno diferentes tecnologías asociadas, así como también:        
+        p.mb-5 Los procesos de fabricación aditiva tienen cada uno diferentes tecnologías asociadas, como las que se presentan a continuación:
       .col-lg-5
         figure
           img(src='@/assets/curso/temas/tema1/img-1.svg')
@@ -59,7 +59,11 @@
                 figure
                   img(src='@/assets/curso/temas/tema1/img-7.png')      
               .col-md-6
-                p <b> Deposición de energía directa (DED):</b> es un proceso de impresión 3D en el que los materiales se introducen y fusionan mediante la aplicación de una potente energía térmica mientras se depositan.  La fuente de energía en cuestión suele ser una de tres: haz de electrones, láser o plasma. El material se introduce en forma de alambre o polvo y, a medida que sale del cabezal, una fuente de calor lo funde, formando formas complejas. “Esta tecnología le permite crear impresiones capa por capa, pero también puede usarse para reparar objetos. Por esta razón, DED se utiliza más para reparar piezas existentes que para crear objetos de impresión completamente nuevos” (All3DP, 2022).  Al igual que con cualquier tecnología de fabricación aditiva, el diseño de una pieza comienza con la creación de un modelo 3D utilizando un software CAD. Luego, la pieza se corta utilizando 3D Slicer o un software de corte en capas que representan las diversas capas de material necesarias para formar la pieza.  Esta tecnología deposita material sobre la base o el componente que se está reparando a través de boquillas montadas en brazos multieje (generalmente 4 o 5). El material metálico suministrado a la boquilla se proporciona en forma de polvo o alambre. Durante la deposición, una fuente de calor derrite simultáneamente el material, generalmente utilizando un láser, un haz de electrones o un arco de plasma. Se repite este proceso hasta que la capa se solidifique y el objeto se cree o se repare (3Dnatives, 10 de septiembre de 2019).
+                p <b> Deposición de energía directa (DED):</b> es un proceso de impresión 3D en el que los materiales se introducen y fusionan mediante la aplicación de una potente energía térmica mientras se depositan.  La fuente de energía en cuestión suele ser una de tres: haz de electrones, láser o plasma. El material se introduce en forma de alambre o polvo y, a medida que sale del cabezal, una fuente de calor lo funde, produciendo formas complejas. “Esta tecnología le permite crear impresiones capa por capa, pero también puede usarse para reparar objetos. Por esta razón, DED se utiliza más para reparar piezas existentes que para crear objetos de impresión completamente nuevos” (All3DP, 2022).  Al igual que con cualquier tecnología de fabricación aditiva, el diseño de una pieza comienza con la creación de un modelo 3D utilizando un 
+                  em software 
+                  | CAD. Luego, la pieza se corta utilizando 3D Slicer o un 
+                  em software 
+                  | de corte en capas que representan las diversas capas de material necesarias para formar la pieza.  Esta tecnología deposita material sobre la base o el componente que se está reparando a través de boquillas montadas en brazos multieje (generalmente 4 o 5). El material metálico suministrado a la boquilla se proporciona en forma de polvo o alambre. Durante la deposición, una fuente de calor derrite simultáneamente el material, generalmente utilizando un láser, un haz de electrones o un arco de plasma. Se repite este proceso hasta que la capa se solidifique y el objeto se cree o se repare (3Dnatives, 10 de septiembre de 2019).
             .row.align-items-center(titulo="Paso 7")
               .col-md-6.mb-4.mb-md-0
                 figure

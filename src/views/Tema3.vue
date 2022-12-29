@@ -22,19 +22,22 @@
         SlyderA(tipo='b')
           .row.align-items-center
             .col-md-6.mb-4.mb-md-0.px-4
-              p Fusión por haz de electrones (EBM): con esta técnica, el polvo metálico se deposita en una cámara de vacío a unos 700 ºC y se funde bajo la acción de un haz de electrones (<em>electron beam</em>) (Mizar, s.f.).
+              h4 Fusión por haz de electrones (EBM)
+              p Con esta técnica, el polvo metálico se deposita en una cámara de vacío a unos 700 ºC y se funde bajo la acción de un haz de electrones (<em>electron beam</em>) (Mizar, s.f.).
             .col-md-6
               figure
                 img(src='@/assets/curso/temas/tema3/img-2.png')
           .row.align-items-center
             .col-md-6.mb-4.mb-md-0.px-4
-              p Sinterización directa de metal por láser (DMLS): la fusión selectiva de materiales en una capa continua de polvo se realiza con un láser en una cámara de argón inerte (Mizar, s.f.).
+              h4 Sinterización directa de metal por láser (DMLS)
+              p La fusión selectiva de materiales en una capa continua de polvo se realiza con un láser en una cámara de argón inerte (Mizar, s.f.).
             .col-md-6
               figure
                 img(src='@/assets/curso/temas/tema3/img-3.png')
           .row.align-items-center
             .col-md-6.mb-4.mb-md-0.px-4
-              p Sinterización selectiva por láser (SLS): los contornos de los componentes en el material plástico deseado se funden con láser. Esta opción funciona de manera similar a DMLS, pero la base del componente no es de metal, sino de polímero (Mizar, s.f.).
+              h4 Sinterización selectiva por láser (SLS)
+              p Los contornos de los componentes en el material plástico deseado se funden con láser. Esta opción funciona de manera similar a DMLS, pero la base del componente no es de metal, sino de polímero (Mizar, s.f.).
             .col-md-6
               figure
                 img(src='@/assets/curso/temas/tema3/img-4.png')
@@ -49,7 +52,9 @@
       .col-lg-6.c-izq 
         figure.mt-5
           img.img-250(src='@/assets/curso/temas/tema3/img-5.svg')      
-        p.p-5.text-white En la industria médica utiliza el proceso para fabricar componentes ortopédicos personalizados, como cráneos de titanio o implantes. Desde un punto de vista aeroespacial, el proceso PBF ha atraído mucha atención y uso en aviones militares y comerciales. Ejemplos de esto incluyen boquillas de combustible de fabricación PBF en el motor GE9X de General Electric, que se utiliza en aviones Boeing 777. El GE9X es el turboventilador más grande en producción y la boquilla fabricada aditivamente es cinco veces más duradera que las versiones anteriores. El Boeing 777 con dos motores GE9X, tiene más de 300 piezas fabricadas aditivamente.      
+        p.p-5.text-white En la industria médica suele emplearse para fabricar componentes ortopédicos personalizados como cráneos de titanio o implantes. Por otro lado, y desde el punto de vista aeroespacial, el proceso PBF ha captado la atención y es empleado en la fabricación de aviones militares y comerciales como por ejemplo, en el motor GE9X de 
+          em General Electric
+          | , que se utiliza en aviones Boeing 777; el GE9X es el turboventilador más grande en producción y la boquilla fabricada aditivamente es cinco veces más duradera que las versiones anteriores. El Boeing 777 con dos motores GE9X, tiene más de 300 piezas fabricadas aditivamente.    
 
       .col-lg-6.c-der       
         figure.mt-5
