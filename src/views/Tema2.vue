@@ -43,7 +43,7 @@
                 .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img-2.png')})`}")
                 .tarjeta-flip__contenido.p-4.p-xl-5
                   p.text-center.bb El 
-                    em software 
+                    em(style='color: #12263f') software 
                     |  lamina y coloca archivos CAD en 3D. Se Calcula la ruta para extruir el material termoplástico y cualquier material de soporte necesario.
 
           .col-sm-6.col-xl-4.mb-4.mb-xl-0.img-384
