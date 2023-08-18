@@ -281,7 +281,7 @@ export default {
     {
       termino: 'DMLS',
       significado:
-        'Tipo de impresión que utiliza polvo metálico, que se funde capa a capa mediante láser. Cuanto más pequeñas sean las partículas de polvo metálico, más resolución (detalle) podrá imprimir. Acrónimode <em>Direct Metal Laser Sintering,</em> la sinterización directa de metales por medio de un láser. Son impresoras industriales de alto costo.',
+        'Tipo de impresión que utiliza polvo metálico, que se funde capa a capa mediante láser. Cuanto más pequeñas sean las partículas de polvo metálico, más resolución (detalle) podrá imprimir. Acrónimo de <em>Direct Metal Laser Sintering,</em> la sinterización directa de metales por medio de un láser. Son impresoras industriales de alto costo.',
     },
     {
       termino: 'Estructuras de soporte',

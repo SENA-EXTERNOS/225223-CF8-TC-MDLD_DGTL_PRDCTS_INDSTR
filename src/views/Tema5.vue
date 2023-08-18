@@ -86,7 +86,7 @@
           .row(titulo="Ventaja: material extenso")
             p Pasa por la deposición de energía dirigida, es un proceso donde se tiene investigación y desarrollo avanzado respecto a los materiales que se aplican. 
           .row(titulo="Ventaja: excelente calidad operativa")
-            p La contribución del calor en la base es muy bajo, casi sin deformación, sin corrosión. Los aportes son de alta densidad y mínima porosidad.
+            p La contribución del calor en la base es muy baja, casi sin deformación, sin corrosión. Los aportes son de alta densidad y mínima porosidad.
           .row(titulo="Desventaja: espesor variable")
             p En comparación con otros espesores en otros procesos de manufactura aditiva.
           .row(titulo="Ventaja: se puede aplicar a piezas existentes")

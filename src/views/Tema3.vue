@@ -52,7 +52,7 @@
       .col-lg-6.c-izq 
         figure.mt-5
           img.img-250(src='@/assets/curso/temas/tema3/img-5.svg')      
-        p.p-5.text-white En la industria médica suele emplearse para fabricar componentes ortopédicos personalizados como cráneos de titanio o implantes. Por otro lado, y desde el punto de vista aeroespacial, el proceso PBF ha captado la atención y es empleado en la fabricación de aviones militares y comerciales como por ejemplo, en el motor GE9X de 
+        p.p-5.text-white En la industria médica suele emplearse para fabricar componentes ortopédicos personalizados como cráneos de titanio o implantes. Por otro lado, y desde el punto de vista aeroespacial, el proceso PBF ha captado la atención y es empleado en la fabricación de aviones militares y comerciales como, por ejemplo, en el motor GE9X de 
           em General Electric
           | , que se utiliza en aviones Boeing 777; el GE9X es el turboventilador más grande en producción y la boquilla fabricada aditivamente es cinco veces más duradera que las versiones anteriores. El Boeing 777 con dos motores GE9X, tiene más de 300 piezas fabricadas aditivamente.    
 

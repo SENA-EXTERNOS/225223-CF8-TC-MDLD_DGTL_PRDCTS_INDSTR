@@ -78,9 +78,9 @@
           img(src='@/assets/curso/temas/tema2/img-5.png')
       .col-lg-7      
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul fnd-3")
-          .row(titulo="Usos 1")
+          .row(titulo="Uso 1")
             p.mb-4 Dada la simplicidad de la tecnología y el bajo costo del proceso muchas empresas la utilizan para fabricar los primeros prototipos de los productos; de igual forma se usa para la producción de piezas en bajos volúmenes que no requieren un acabado superficial tan alto.  Los primeros en adoptar la impresión 3D como GE, Airbus, BMW y Ford han estado utilizando la impresión 3D FDM por décadas, como herramienta para diseñar plantillas, accesorios y piezas de fabricación especializadas de bajo volumen utilizando maquinaria de fabricación aditiva a escala industrial y gran escala.
-          .row(titulo="Usos 2")
+          .row(titulo="Uso 2")
             p.mb-4 De igual forma es una tecnología, que por su costo es accesible para hogares y centro de educación, se constituye en la herramienta ideal para comenzar en la manufactura aditiva. Hay varios 
               em softwares 
               |  de diseño libres que se pueden usar para la creación de los objetos 3D, así como también librerías para descargar archivos de impresión y un sin número de comunidades para la creación de proyectos de impresión 3D.
