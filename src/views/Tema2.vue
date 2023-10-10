@@ -44,7 +44,7 @@
                 .tarjeta-flip__contenido.p-4.p-xl-5
                   p.text-center.bb El 
                     em(style='color: #12263f') software 
-                    |  lamina y coloca archivos CAD en 3D. Se Calcula la ruta para extruir el material termoplástico y cualquier material de soporte necesario.
+                    |  lamina y coloca archivos CAD en 3D. Se calcula la ruta para extruir el material termoplástico y cualquier material de soporte necesario.
 
           .col-sm-6.col-xl-4.mb-4.mb-xl-0.img-384
             .tarjeta.tarjeta-flip.color-acento-botones(@mouseover="indicadorTarjetaFlip = false")
@@ -79,7 +79,7 @@
       .col-lg-7      
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul fnd-3")
           .row(titulo="Uso 1")
-            p.mb-4 Dada la simplicidad de la tecnología y el bajo costo del proceso muchas empresas la utilizan para fabricar los primeros prototipos de los productos; de igual forma se usa para la producción de piezas en bajos volúmenes que no requieren un acabado superficial tan alto.  Los primeros en adoptar la impresión 3D como GE, Airbus, BMW y Ford han estado utilizando la impresión 3D FDM por décadas, como herramienta para diseñar plantillas, accesorios y piezas de fabricación especializadas de bajo volumen utilizando maquinaria de fabricación aditiva a escala industrial y gran escala.
+            p.mb-4 Dada la simplicidad de la tecnología y el bajo costo del proceso muchas empresas la utilizan para fabricar los primeros prototipos de los productos; de igual manera se usa para la producción de piezas en bajos volúmenes que no requieren un acabado superficial tan alto.  Las primeras en adoptar la impresión 3D como GE, Airbus, BMW y Ford han estado utilizando la impresión 3D FDM durante décadas, como herramienta para diseñar plantillas, accesorios y piezas de fabricación especializadas de bajo volumen, utilizando maquinaria de fabricación aditiva a escala industrial y gran escala.
           .row(titulo="Uso 2")
             p.mb-4 De igual forma es una tecnología, que por su costo es accesible para hogares y centro de educación, se constituye en la herramienta ideal para comenzar en la manufactura aditiva. Hay varios 
               em softwares 
@@ -106,10 +106,10 @@
             p.mb-0 Impresora fácil de usar y de bajo costo, al igual que los consumibles como las bobinas de material.
           li
             i.fas.fa-check
-            p.mb-0 Tecnología de fácil comprensión y disponibilidad en el mercado las impresoras.
+            p.mb-0 Tecnología de fácil comprensión y disponibilidad en el mercado de las impresoras.
           li
             i.fas.fa-check
-            p.mb-0 Adecuada para uso en casi todos los campos, desde el hogar hasta en la industria, la medicina, la educación y más.
+            p.mb-0 Adecuada para uso en casi todos los campos, desde el hogar, hasta en la industria, la medicina, la educación y más.
       .tarjeta.color-acento-botones.p-3(x="100%" y="50%" numero="")
         ul.lista-ul--color
           li

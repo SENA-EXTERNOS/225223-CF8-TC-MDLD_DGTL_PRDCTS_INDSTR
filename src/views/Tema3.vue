@@ -30,14 +30,14 @@
           .row.align-items-center
             .col-md-6.mb-4.mb-md-0.px-4
               h4 Sinterización directa de metal por láser (DMLS)
-              p La fusión selectiva de materiales en una capa continua de polvo se realiza con un láser en una cámara de argón inerte (Mizar, s.f.).
+              p La fusión selectiva de materiales en una capa continua de polvo, se realiza con un láser en una cámara de argón inerte (Mizar, s.f.).
             .col-md-6
               figure
                 img(src='@/assets/curso/temas/tema3/img-3.png')
           .row.align-items-center
             .col-md-6.mb-4.mb-md-0.px-4
               h4 Sinterización selectiva por láser (SLS)
-              p Los contornos de los componentes en el material plástico deseado se funden con láser. Esta opción funciona de manera similar a DMLS, pero la base del componente no es de metal, sino de polímero (Mizar, s.f.).
+              p Los contornos de los componentes en el material plástico deseado, se funden con láser. Esta opción funciona de manera similar a DMLS, pero la base del componente no es de metal, sino de polímero (Mizar, s.f.).
             .col-md-6
               figure
                 img(src='@/assets/curso/temas/tema3/img-4.png')
@@ -52,9 +52,9 @@
       .col-lg-6.c-izq 
         figure.mt-5
           img.img-250(src='@/assets/curso/temas/tema3/img-5.svg')      
-        p.p-5.text-white En la industria médica suele emplearse para fabricar componentes ortopédicos personalizados como cráneos de titanio o implantes. Por otro lado, y desde el punto de vista aeroespacial, el proceso PBF ha captado la atención y es empleado en la fabricación de aviones militares y comerciales como, por ejemplo, en el motor GE9X de 
+        p.p-5.text-white En la industria médica suele emplearse para fabricar componentes ortopédicos personalizados, como cráneos de titanio o implantes. Por otro lado, y desde el punto de vista aeroespacial, el proceso PBF ha captado la atención, y es empleado en la fabricación de aviones militares y comerciales como, por ejemplo, en el motor GE9X de 
           em General Electric
-          | , que se utiliza en aviones Boeing 777; el GE9X es el turboventilador más grande en producción y la boquilla fabricada aditivamente es cinco veces más duradera que las versiones anteriores. El Boeing 777 con dos motores GE9X, tiene más de 300 piezas fabricadas aditivamente.    
+          | , que se utiliza en aviones Boeing 777; el GE9X es el turboventilador más grande en producción, y la boquilla fabricada aditivamente es cinco veces más duradera que las versiones anteriores. El Boeing 777 con dos motores GE9X, tiene más de 300 piezas fabricadas aditivamente.    
 
       .col-lg-6.c-der       
         figure.mt-5
@@ -86,7 +86,7 @@
           .tarjeta.color-acento-botones.p-3(x="105%" y="73%" numero="+")
             p.text-center Habilidad para construir partes categorizadas funcionalmente.
           .tarjeta.color-acento-botones.p-3(x="94%" y="93%" numero="+")
-            p.text-center Piezas completamente personalizadas lote por lote, eliminando diseños fijos.
+            p.text-center Piezas completamente personalizadas, lote por lote, eliminando diseños fijos.
           .tarjeta.color-acento-botones.p-3(x="75%" y="104%" numero="+")
             p.text-center Buena resolución en comparación con otros procesos de fabricación aditiva.
           .tarjeta.color-acento-botones.p-3(x="51%" y="104%" numero="+")
